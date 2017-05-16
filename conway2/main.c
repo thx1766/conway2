@@ -9,6 +9,10 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
+    /*
+     usage:
+        conway --antisparse <true/false> --bootfile <filepath>
+     */
     // insert code here...
     printf("Hello, World!\n");
     return 0;
